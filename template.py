@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 
 list_of_files = [
-    ".github/workflows/.gitkeep",
+    ".github/workflows/ci.yaml",
     "src/__init__.py",
     "src/mongodb/__init__.py"
     "src/mongodb/mongo_crud.py"
