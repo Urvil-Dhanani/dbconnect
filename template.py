@@ -4,13 +4,13 @@ from pathlib import Path
 list_of_files = [
     ".github/workflows/ci.yaml",
     "src/__init__.py",
-    "src/mongodb/__init__.py"
-    "src/mongodb/mongo_crud.py"
+    "src/mongodb/__init__.py",
+    "src/mongodb/mongo_crud.py",
     "src/utils/__init__.py",
     "src/utils/utils.py",    
     "tests/__init__.py",
     "tests/unit/__init__.py",
-    "tests/unit/unit.py"
+    "tests/unit/unit.py",
     "tests/integration/__init__.py",
     "tests/integration/integration.py",
     "init_setup.sh",
