@@ -4,8 +4,8 @@ from pathlib import Path
 list_of_files = [
     ".github/workflows/ci.yaml",
     "src/__init__.py",
-    "src/mongodb/__init__.py",
-    "src/mongodb/mongo_crud.py",
+    "src/mongodbconnect/__init__.py",
+    "src/mongodbconnect/mongo_crud.py",
     "src/utils/__init__.py",
     "src/utils/utils.py",    
     "tests/__init__.py",

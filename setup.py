@@ -25,4 +25,5 @@ setup(
     },
     package_dir={"": "src"},
     packages=find_packages(where="src"),
+    install_requires = get_requirement("./requirements_dev.txt")
     )
